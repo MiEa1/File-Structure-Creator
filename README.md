@@ -20,7 +20,8 @@
 
 ## 📷 界面预览
 
-![界面示例](https://your-screenshot-url-here.com/optional.png)
+![界面示例]([https://your-screenshot-url-here.com/optional.png](https://raw.githubusercontent.com/MiEa1/File-Structure-Creator/refs/heads/main/screen-shot/1.png))
+![界面示例]([https://your-screenshot-url-here.com/optional.png](https://raw.githubusercontent.com/MiEa1/File-Structure-Creator/refs/heads/main/screen-shot/2.png))
 
 ---
 
